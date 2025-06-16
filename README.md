@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Games
+# Tic-Tac-Toe.Ai
 
 Winter 2024 C++ Project by Adarsh Bellamane.
 
